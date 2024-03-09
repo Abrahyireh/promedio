@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\bin\Debug\net6.0-windows\notasDeEstudianteyPromedio.exe
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\bin\Debug\net6.0-windows\notasDeEstudianteyPromedio.deps.json
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\bin\Debug\net6.0-windows\notasDeEstudianteyPromedio.runtimeconfig.json
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\bin\Debug\net6.0-windows\notasDeEstudianteyPromedio.dll
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\bin\Debug\net6.0-windows\notasDeEstudianteyPromedio.pdb
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\notasDeEstudianteyPromedio.Form1.resources
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\notasDeEstudianteyPromedio.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\notasDeEstudianteyPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\notasDeEstudianteyPromedio.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\notasDeEstudianteyPromedio.AssemblyInfo.cs
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\notasDeEstudianteyPromedio.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\notasDeEstudianteyPromedio.dll
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\refint\notasDeEstudianteyPromedio.dll
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\notasDeEstudianteyPromedio.pdb
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\notasDeEstudianteyPromedio.genruntimeconfig.cache
+C:\Users\HP\Desktop\todo\C#-pru\notasDeEstudianteyPromedio\obj\Debug\net6.0-windows\ref\notasDeEstudianteyPromedio.dll
